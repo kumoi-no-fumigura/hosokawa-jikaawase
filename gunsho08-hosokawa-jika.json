@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hosokawa-jikaawase",
  "yomi": "ほそかわさきょうのだいぶじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合",
+  "era": "室町後期",
+  "author": "細川左京大夫（自撰）、判者 三条西実隆",
+  "desc": "細川左京大夫が自詠を左右に番えた自歌合で、逍遥院実隆が判詞を書いた。早春・谷鶯などの題で、判は漢籍や故事を引いて論じる。"
+ },
  "editions": [
   {
    "pid": "1879502",
